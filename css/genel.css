@@ -1,0 +1,24 @@
+div {
+    color:red
+}
+.baslik {
+    color: blue;
+}
+h3 {
+    color:green
+}
+h4 {
+    color: red;
+}
+
+
+body {text-align: center;
+      
+}
+.bb{ 
+    height: 100px;
+    width: 100px;
+}
+ol,p {
+    list-style-type: none;
+}
